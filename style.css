@@ -34,8 +34,9 @@ p {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 10px 60px;
+    padding: 0px 60px;
     border-bottom: .5px solid var(--primary-col);
+    position: relative;
 }
 .nav-links {
     width: 30%;
@@ -469,7 +470,7 @@ h1 {
     .nav-links {
         width: 30%;
         height: 60vh;
-        top: 10vh;
+        top: 100%;
         right: 0px;
         position: absolute;
         display: none;
