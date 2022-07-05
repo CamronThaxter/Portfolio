@@ -544,6 +544,7 @@ h1 {
 
     .hire-form {
         width: 50%;
+        height: 80%;
     }
 
     .foot {
@@ -624,7 +625,8 @@ h1 {
     }
 
     .hire-form {
-        width: 70%;
+        width: 90%;
+        height: 80%;
     }
     .hire-form h1{
        font-size: 20px;
